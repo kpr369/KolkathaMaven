@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-07T08:10:17 IST" name="Suite" finished-at="2021-09-07T08:10:56 IST" duration-ms="38884">
+    <groups>
+    </groups>
+    <test started-at="2021-09-07T08:10:17 IST" name="Test" finished-at="2021-09-07T08:10:56 IST" duration-ms="38884">
+      <class name="testing.KolkathaMaven.ParallelExecution">
+        <test-method signature="googleTest()[pri:0, instance:testing.KolkathaMaven.ParallelExecution@5a63f509]" started-at="2021-09-07T08:10:17 IST" name="googleTest" finished-at="2021-09-07T08:10:28 IST" duration-ms="10528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method signature="googleTest1()[pri:0, instance:testing.KolkathaMaven.ParallelExecution@5a63f509]" started-at="2021-09-07T08:10:28 IST" name="googleTest1" finished-at="2021-09-07T08:10:35 IST" duration-ms="7278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest1 -->
+        <test-method signature="googleTest2()[pri:0, instance:testing.KolkathaMaven.ParallelExecution@5a63f509]" started-at="2021-09-07T08:10:35 IST" name="googleTest2" finished-at="2021-09-07T08:10:53 IST" duration-ms="17769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest2 -->
+      </class> <!-- testing.KolkathaMaven.ParallelExecution -->
+      <class name="testing.KolkathaMaven.ParallelExecution2">
+        <test-method signature="googleTest()[pri:0, instance:testing.KolkathaMaven.ParallelExecution2@1700915]" started-at="2021-09-07T08:10:17 IST" name="googleTest" finished-at="2021-09-07T08:10:32 IST" duration-ms="14477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method signature="googleTest1()[pri:0, instance:testing.KolkathaMaven.ParallelExecution2@1700915]" started-at="2021-09-07T08:10:32 IST" name="googleTest1" finished-at="2021-09-07T08:10:43 IST" duration-ms="10798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest1 -->
+        <test-method signature="googleTest2()[pri:0, instance:testing.KolkathaMaven.ParallelExecution2@1700915]" started-at="2021-09-07T08:10:43 IST" name="googleTest2" finished-at="2021-09-07T08:10:56 IST" duration-ms="13472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest2 -->
+      </class> <!-- testing.KolkathaMaven.ParallelExecution2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
