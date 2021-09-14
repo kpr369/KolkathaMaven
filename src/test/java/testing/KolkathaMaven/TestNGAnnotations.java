@@ -22,6 +22,6 @@ public class TestNGAnnotations {
 	{
 		System.out.println(5/0);
 		System.out.println(5/2);
+		System.out.println(3/2);
 	}
-
 }

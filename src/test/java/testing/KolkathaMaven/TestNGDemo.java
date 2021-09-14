@@ -22,5 +22,12 @@ public class TestNGDemo {
 	{
 		System.out.println("Hello");
 	}
+	@Test(groups= {"Regression"})
+	public void testndDemo3()
+	{
+		System.out.println("Hello");
+	}
+
+
 
 }
