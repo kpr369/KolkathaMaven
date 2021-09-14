@@ -21,6 +21,6 @@ public class TestNGAnnotations {
 	public void login()
 	{
 		System.out.println(5/0);
+		System.out.println(3/2);
 	}
-
 }
