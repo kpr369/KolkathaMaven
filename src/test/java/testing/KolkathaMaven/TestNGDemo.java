@@ -17,5 +17,10 @@ public class TestNGDemo {
 		System.out.println("Hello");
 	}
 
+	@Test(groups= {"Regression"})
+	public void testndDemo2()
+	{
+		System.out.println("Hello");
+	}
 
 }
