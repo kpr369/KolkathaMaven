@@ -18,6 +18,11 @@ public class TestNGDemo {
 	}
 
 	@Test(groups= {"Regression"})
+	public void testndDemo2()
+	{
+		System.out.println("Hello");
+	}
+	@Test(groups= {"Regression"})
 	public void testndDemo3()
 	{
 		System.out.println("Hello");
