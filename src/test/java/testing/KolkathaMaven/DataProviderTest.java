@@ -16,6 +16,8 @@ public class DataProviderTest {
 
 		driver.get("https://www.google.com/");
 		driver.findElement(By.name("q")).sendKeys(query);
+		driver.findElement(By.name("q")).sendKeys("Python");
+
 	}
 	
 		
